@@ -13,7 +13,7 @@
 .caption-text {
 position: absolute;
 z-index: 10;
-top: 100px;
+top: 170px;
 }
 .caption-text h1 {
   font-family: 'Roboto', sans-serif;
@@ -31,7 +31,7 @@ top: 100px;
 .caption-btn{
   position: absolute;
   z-index: 10;
-  top: 300px;
+  top: 370px;
   display: block;
   text-align: center;
 }
@@ -50,4 +50,33 @@ top: 100px;
   color: white;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
+}
+.section-2 h2 {
+  margin-top: 50px;
+  font-size: 1.2em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+.section-2 p {
+  font-size: 1em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+.img-team{
+  max-height: 300px;
+  margin: 0 auto;
+}
+.jumbotron h2 {
+  font-size: 1.2em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+.jumbotron p {
+  font-size: 1em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  text-align: center;
 }
