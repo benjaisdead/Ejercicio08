@@ -1,0 +1,53 @@
+.navbar{
+  margin: 0;
+}
+.btn {
+  padding: 2px 5 2 5;
+}
+.btn p {
+  margin: 0;
+}
+#carousel-example-generic{
+  position: relative;
+}
+.caption-text {
+position: absolute;
+z-index: 10;
+top: 100px;
+}
+.caption-text h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  color: white;
+  text-align: center;
+}
+.caption-text p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  margin: 0;
+  text-align: center;
+  color: white;
+}
+.caption-btn{
+  position: absolute;
+  z-index: 10;
+  top: 300px;
+  display: block;
+  text-align: center;
+}
+.btn-one {
+  background: #10547A;
+}
+.btn-one p {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+.btn-two {
+  background: #118528;
+}
+.btn-two p {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
